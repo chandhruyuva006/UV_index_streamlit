@@ -56,7 +56,7 @@ The app converts all times from UTC to Indian Standard Time (GMT+5:30) using Pyt
 | High        | 6–7         | Orange  |
 | Very High   | 8–10        | Red     |
 | Extreme     | 11+         | Purple  |
-|-------------|-------------|---------|
+
 
 ## ✍️ Author
 Developed by `Helicase11`.
