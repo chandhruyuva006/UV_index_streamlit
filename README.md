@@ -24,7 +24,11 @@ Make sure you have the following installed:
 - `pip (Python package manager)`
 
 ## 📥 Installation
-```bash # Clone the repo git clone https://github.com/your-username/uv-index-dashboard.git # Navigate into the project directory cd uv-index-dashboard # Install dependencies pip install -r requirements.txt ``` 
+```bash 
+# Clone the repo git clone https://github.com/your-username/uv-index-dashboard.git 
+# Navigate into the project directory cd uv-index-dashboard 
+# Install dependencies pip install -r requirements.txt 
+```
 
 ## ▶️ Run the App
 ```bash streamlit run app.py ```
