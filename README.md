@@ -63,7 +63,7 @@ The app converts all times from UTC to Indian Standard Time (GMT+5:30) using Pyt
 
 
 ### ✍️ Author
-Developed by `Helicase11`.
+Developed by `Helicase11`.  
 Feel free to reach out or contribute!
 
 
